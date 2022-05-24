@@ -7,6 +7,7 @@ public class User {
     private Integer age;
 
     public String getUser() {
+        System.out.println("master test!");
         return user;
     }
 
