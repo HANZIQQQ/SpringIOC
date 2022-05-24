@@ -6,7 +6,9 @@ public class User {
     private String user;
     private Integer age;
 
+
     public String getUser() {
+        System.out.println("hello...");
         return user;
     }
 
