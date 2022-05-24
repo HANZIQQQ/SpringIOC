@@ -10,6 +10,7 @@ public class User {
     public String getUser() {
         System.out.println("master test!!");
         System.out.println("hello...");
+        System.out.println("hello...01");
         return user;
     }
 
